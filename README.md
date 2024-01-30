@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... MERN
 - 💞️ I’m looking to collaborate on ...MERN projects
 - 📫 How to reach me ...anuragtivari850@gmail.com
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...I love doodles :)
 
 <!---
