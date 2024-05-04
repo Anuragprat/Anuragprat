@@ -15,9 +15,11 @@ Let's Connect!
 
  Email- anuragtivari850@gmail.com
 
- LinkedIn - https://www.linkedin.com/in/anurag-tiwari-77b689259/
+ [![My Skills](https://skillicons.dev/icons?i=Linkedin)](https://skillicons.dev) - https://www.linkedin.com/in/anurag-tiwari-77b689259/
 
 
 My programming Achievements:
 
 Leetcode : https://leetcode.com/u/anurag356
+
+CodeChef : https://www.codechef.com/users/anurag35
