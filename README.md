@@ -13,9 +13,9 @@ Skills
 Let's Connect!
 📫 Reach out to me:
 
- Email- anuragtivari850@gmail.com
+ [![My Skills](https://skillicons.dev/icons?i=gmail)](anuragtivari850@gmail.com)- 
 
- [![My Skills](https://skillicons.dev/icons?i=Linkedin)](https://skillicons.dev) - https://www.linkedin.com/in/anurag-tiwari-77b689259/
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)][(https://skillicons.dev)](https://www.linkedin.com/in/anurag-tiwari-77b689259/) - 
 
 
 My programming Achievements:
