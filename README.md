@@ -13,7 +13,7 @@ Skills
 Let's Connect!
 📫 Reach out to me:
 
+ Email- anuragtivari850@gmail.com
 
-[Email] anuragtivari850@gmail.com
-[Twitter](Your Twitter Handle)
-![png-clipart-computer-icons-resume-linkedin-logo-job-hunting-others-blue-angle-thumbnail](https://github.com/Anuragprat/Anuragprat/assets/142727134/556635aa-f012-4145-a790-4ce1241de177)
+ LinkedIn - https://www.linkedin.com/in/anurag-tiwari-77b689259/
+
