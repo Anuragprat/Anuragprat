@@ -1,5 +1,5 @@
 Hi there, I'm Anurag! 👋
-🚀 Frontend Developer | 💻 Open Source Contributor | 📚 Lifelong Learner
+🚀 Software Developer | 💻 Open Source Contributor 
 
 About Me
 
