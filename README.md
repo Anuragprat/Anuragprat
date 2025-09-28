@@ -1,9 +1,9 @@
 Hi there, I'm Anurag! 👋
-🚀 Software Developer | 💻 Open Source Contributor 
+🚀 Software Developer at Hexaview Technologies | 💻 Open Source Contributor 
 
 About Me
 
-I am deeply passionate about crafting code that is both clean and efficient, with the ultimate goal of creating software solutions that have a positive impact on society. I find great satisfaction in delving into new technologies and collaborating with other professionals on challenging projects that push the boundaries of what is currently possible. My extensive experience and proficiency in software development allow me to confidently explore and implement new solutions to complex problems.
+I’m Anurag Tiwari, a developer at Hexaview Technologies with experience in React, TypeScript, Next.js, and Java, along with exposure to Spring Boot, databases, and Prisma. I’ve worked on projects involving API integrations, web app development, and database management, and I’m always eager to learn and take on new challenges.I am ready to join immediately and have 6 months of experience.
 
 **Languages** :
 
