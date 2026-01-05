@@ -1,5 +1,4 @@
 Hi there, I'm Anurag! 👋
-🚀 Software Developer at Hexaview Technologies | 💻 Open Source Contributor 
 
 About Me
 
