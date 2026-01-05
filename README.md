@@ -2,8 +2,7 @@ Hi there, I'm Anurag! 👋
 
 About Me
 
-I’m Anurag Tiwari, a developer at Hexaview Technologies with experience in React, TypeScript, Next.js, and Java, along with exposure to Spring Boot, databases, and Prisma. I’ve worked on projects involving API integrations, web app development, and database management, and I’m always eager to learn and take on new challenges.I am ready to join immediately and have 6 months of experience.
-
+I’m Anurag Tiwari, a developer with experience in React, TypeScript, Next.js, and Java, along with exposure to Spring Boot, databases, and Prisma. I’ve worked on projects involving API integrations, web app development, and database management, and I’m always eager to learn and take on new challenges.
 **Languages** :
 
 ![My Skills](https://skillicons.dev/icons?i=java,javascript,scss,ts,html&theme=dark)
